@@ -72,5 +72,5 @@ python predict.py
 ---
 
 ## Author
-Pranali Mahankal
+Pranali Mahankal |
 Artificial Intelligence & Data Science Student
